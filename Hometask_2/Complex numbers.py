@@ -2,9 +2,20 @@ class Complex():
 
     def __init__(self, x, y, r=None, fi=None):
         self.set(x,y,r , fi)
+        if self._x!=None and self._y!= None:
+            r, fi = self.exp()
+            self._r  = r
+            self._fi = fi
+        elif self._r!=None and self._fi!= None:
+            x, y = self.alg()
+            self._x = x
+            self._y = y
+        self.storage = {0 : x, 1 : y, 2 : r, 3 : fi}
+
 
 
     def set(self, x, y, r, fi):
+        self.storage = {0: x, 1: y, 2: r, 3: fi}
         self._x = x
         self._y = y
         self._r = r
@@ -90,13 +101,22 @@ class Complex():
             raise ValueError('Only one form')
 
 
+    def __getitem__(self, item):
+        return self.storage[item]
+
+    def __setitem__(self, key, value):
+        self.storage[key] = value
 
 
 import math
 
 a = Complex(None,None, 3, 1)
-b = Complex(None, None, 3,5)
-c = Complex(1,2)
-d = Complex(3,4)
-print((c*d).get_alg())
-print((a/b).get_exp())
+# b = Complex(None, None, 3,5)
+# c = Complex(1,2)
+# d = Complex(3,4)
+# print((c*d).get_alg())
+# print((a/b).get_exp())
+print(a[2])
+a[2] = 5
+print(a[2])
+print(a.get_exp())
