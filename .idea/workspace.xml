@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23ac4bd0-27ec-4337-b3b4-b03d2d46b906" name="Default Changelist" comment="">
+    <list default="true" id="23ac4bd0-27ec-4337-b3b4-b03d2d46b906" name="Default Changelist" comment="add self.storage">
+      <change afterPath="$PROJECT_DIR$/Hometask_2/Task2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/git.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/git.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Hometask_2/Complex numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hometask_2/Complex numbers.py" afterDir="false" />
     </list>
@@ -30,6 +29,24 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -39,6 +56,34 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IlluminatedCloudWorkspaceSettings">
+    <option name="projectWorkspaceSettings">
+      <ProjectWorkspaceSettings>
+        <option name="anonymousApexSettings">
+          <AnonymousApexSettings>
+            <option name="savedDocuments">
+              <list>
+                <AnonymousApexSavedDocument>
+                  <option name="name" value="Anonymous Apex 1" />
+                </AnonymousApexSavedDocument>
+              </list>
+            </option>
+          </AnonymousApexSettings>
+        </option>
+        <option name="soqlQuerySettings">
+          <SoqlQuerySettings>
+            <option name="savedDocuments">
+              <list>
+                <SoqlQuerySavedDocument>
+                  <option name="name" value="SOQL Query 1" />
+                </SoqlQuerySavedDocument>
+              </list>
+            </option>
+          </SoqlQuerySettings>
+        </option>
+      </ProjectWorkspaceSettings>
+    </option>
+  </component>
   <component name="JupyterTrust" id="1a7e45cf-ae39-460f-b155-1f6b9a8c0120" />
   <component name="ProjectId" id="2EnZJCZHCe8poisPcwnufDb0B1m" />
   <component name="ProjectViewState">
@@ -47,34 +92,75 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="ToolWindowPython Console.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Hometask 3" />
+    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
   </component>
-  <component name="RunManager" selected="Python.Complex numbers">
-    <configuration name="Complex numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Hometask 3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Linked_list">
+    <configuration name="Calculator (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hometask_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hometask_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hometask_2/Complex numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hometask_3/Calculator.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Fibonachi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Calculator_stupid_version" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="git" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hometask_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hometask_3/Calculator_stupid_version.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="git" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hometask_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hometask_2/Linked_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,12 +168,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hometask_1_repeat" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hometask_1_repeat/Fibonachi.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,11 +204,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="git" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hometask_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hometask_3/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="git" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hometask 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hometask 3/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Complex numbers" />
-        <item itemvalue="Python.Fibonachi" />
-        <item itemvalue="Python.Fibonachi" />
+        <item itemvalue="Python.Linked_list" />
+        <item itemvalue="Python.Calculator_stupid_version" />
+        <item itemvalue="Python.Calculator (1)" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -137,12 +269,38 @@
       <workItem from="1663233235368" duration="14000" />
       <workItem from="1665174476997" duration="2753000" />
       <workItem from="1665220407751" duration="1049000" />
-      <workItem from="1665221801733" duration="1485000" />
+      <workItem from="1665221801733" duration="4634000" />
+      <workItem from="1665385971311" duration="60000" />
+      <workItem from="1666088288277" duration="12271000" />
+      <workItem from="1666101410046" duration="142000" />
+      <workItem from="1666124764222" duration="33000" />
+      <workItem from="1666125201668" duration="378000" />
+      <workItem from="1666333104332" duration="3723000" />
+      <workItem from="1666347540086" duration="144000" />
+      <workItem from="1666363358642" duration="2228000" />
+      <workItem from="1666390191951" duration="1416000" />
+      <workItem from="1666606258907" duration="4923000" />
+      <workItem from="1666706910943" duration="858000" />
+      <workItem from="1666958665913" duration="44000" />
+      <workItem from="1667475339775" duration="19017000" />
+      <workItem from="1667558658530" duration="140000" />
+      <workItem from="1667566159421" duration="3782000" />
     </task>
+    <task id="LOCAL-00001" summary="add self.storage">
+      <created>1665223429318</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665223429318</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -156,35 +314,67 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add self.storage" />
+    <option name="LAST_COMMIT_MESSAGE" value="add self.storage" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="709" y="274" key="FileChooserDialogImpl" timestamp="1663233247736">
+    <state x="375" y="86" width="1400" height="1246" key="#Plugins" timestamp="1666124794068">
       <screen x="0" y="0" width="2160" height="1396" />
     </state>
-    <state x="709" y="274" key="FileChooserDialogImpl/0.0.2160.1396@0.0.2160.1396" timestamp="1663233247736" />
-    <state width="1499" height="324" key="GridCell.Tab.0.bottom" timestamp="1665222596910">
+    <state x="375" y="86" width="1400" height="1246" key="#Plugins/0.0.2160.1396@0.0.2160.1396" timestamp="1666124794068" />
+    <state x="628" y="432" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1666101097096">
       <screen x="0" y="0" width="2160" height="1396" />
     </state>
-    <state width="1499" height="324" key="GridCell.Tab.0.bottom/0.0.2160.1396@0.0.2160.1396" timestamp="1665222596910" />
-    <state width="1499" height="324" key="GridCell.Tab.0.center" timestamp="1665222596910">
+    <state x="628" y="432" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2160.1396@0.0.2160.1396" timestamp="1666101097096" />
+    <state x="339" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1667482864816">
       <screen x="0" y="0" width="2160" height="1396" />
     </state>
-    <state width="1499" height="324" key="GridCell.Tab.0.center/0.0.2160.1396@0.0.2160.1396" timestamp="1665222596910" />
-    <state width="1499" height="324" key="GridCell.Tab.0.left" timestamp="1665222596909">
+    <state x="339" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2160.1396@0.0.2160.1396" timestamp="1667482864816" />
+    <state x="709" y="274" width="742" height="847" key="FileChooserDialogImpl" timestamp="1666958708118">
       <screen x="0" y="0" width="2160" height="1396" />
     </state>
-    <state width="1499" height="324" key="GridCell.Tab.0.left/0.0.2160.1396@0.0.2160.1396" timestamp="1665222596909" />
-    <state width="1499" height="324" key="GridCell.Tab.0.right" timestamp="1665222596910">
+    <state x="709" y="274" width="742" height="847" key="FileChooserDialogImpl/0.0.2160.1396@0.0.2160.1396" timestamp="1666958708118" />
+    <state width="1273" height="324" key="GridCell.Tab.0.bottom" timestamp="1666101144158">
       <screen x="0" y="0" width="2160" height="1396" />
     </state>
-    <state width="1499" height="324" key="GridCell.Tab.0.right/0.0.2160.1396@0.0.2160.1396" timestamp="1665222596910" />
-    <state x="195" y="70" width="1769" height="1278" key="SettingsEditor" timestamp="1665221854853">
+    <state width="1273" height="324" key="GridCell.Tab.0.bottom/0.0.2160.1396@0.0.2160.1396" timestamp="1666101144158" />
+    <state width="1273" height="324" key="GridCell.Tab.0.center" timestamp="1666101144158">
       <screen x="0" y="0" width="2160" height="1396" />
     </state>
-    <state x="195" y="70" width="1769" height="1278" key="SettingsEditor/0.0.2160.1396@0.0.2160.1396" timestamp="1665221854853" />
-    <state x="489" y="0" width="1177" height="1392" key="search.everywhere.popup" timestamp="1665221049643">
+    <state width="1273" height="324" key="GridCell.Tab.0.center/0.0.2160.1396@0.0.2160.1396" timestamp="1666101144158" />
+    <state width="1273" height="324" key="GridCell.Tab.0.left" timestamp="1666101144158">
       <screen x="0" y="0" width="2160" height="1396" />
     </state>
-    <state x="489" y="0" width="1177" height="1392" key="search.everywhere.popup/0.0.2160.1396@0.0.2160.1396" timestamp="1665221049643" />
+    <state width="1273" height="324" key="GridCell.Tab.0.left/0.0.2160.1396@0.0.2160.1396" timestamp="1666101144158" />
+    <state width="1273" height="324" key="GridCell.Tab.0.right" timestamp="1666101144158">
+      <screen x="0" y="0" width="2160" height="1396" />
+    </state>
+    <state width="1273" height="324" key="GridCell.Tab.0.right/0.0.2160.1396@0.0.2160.1396" timestamp="1666101144158" />
+    <state width="2080" height="403" key="GridCell.Tab.1.bottom" timestamp="1665310335835">
+      <screen x="0" y="0" width="2160" height="1396" />
+    </state>
+    <state width="2080" height="403" key="GridCell.Tab.1.bottom/0.0.2160.1396@0.0.2160.1396" timestamp="1665310335835" />
+    <state width="2080" height="403" key="GridCell.Tab.1.center" timestamp="1665310335835">
+      <screen x="0" y="0" width="2160" height="1396" />
+    </state>
+    <state width="2080" height="403" key="GridCell.Tab.1.center/0.0.2160.1396@0.0.2160.1396" timestamp="1665310335835" />
+    <state width="2080" height="403" key="GridCell.Tab.1.left" timestamp="1665310335834">
+      <screen x="0" y="0" width="2160" height="1396" />
+    </state>
+    <state width="2080" height="403" key="GridCell.Tab.1.left/0.0.2160.1396@0.0.2160.1396" timestamp="1665310335834" />
+    <state width="2080" height="403" key="GridCell.Tab.1.right" timestamp="1665310335835">
+      <screen x="0" y="0" width="2160" height="1396" />
+    </state>
+    <state width="2080" height="403" key="GridCell.Tab.1.right/0.0.2160.1396@0.0.2160.1396" timestamp="1665310335835" />
+    <state x="195" y="70" width="1769" height="1278" key="SettingsEditor" timestamp="1666610616114">
+      <screen x="0" y="0" width="2160" height="1396" />
+    </state>
+    <state x="195" y="70" width="1769" height="1278" key="SettingsEditor/0.0.2160.1396@0.0.2160.1396" timestamp="1666610616114" />
+    <state x="489" y="0" width="1177" height="1392" key="search.everywhere.popup" timestamp="1667508703799">
+      <screen x="0" y="0" width="2160" height="1396" />
+    </state>
+    <state x="489" y="0" width="1177" height="1392" key="search.everywhere.popup/0.0.2160.1396@0.0.2160.1396" timestamp="1667508703799" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -198,6 +388,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/git$Complex_numbers.coverage" NAME="Complex numbers Coverage Results" MODIFIED="1665222596894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hometask_2" />
+    <SUITE FILE_PATH="coverage/git$Complex_numbers.coverage" NAME="Complex numbers Coverage Results" MODIFIED="1666101040738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hometask_2" />
+    <SUITE FILE_PATH="coverage/git$Linked_list.coverage" NAME="Linked_list Coverage Results" MODIFIED="1666100031523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hometask_2" />
   </component>
 </project>
