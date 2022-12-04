@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,11 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23ac4bd0-27ec-4337-b3b4-b03d2d46b906" name="Default Changelist" comment="add self.storage">
-      <change afterPath="$PROJECT_DIR$/Hometask_2/Task2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/git.iml" afterDir="false" />
+    <list default="true" id="23ac4bd0-27ec-4337-b3b4-b03d2d46b906" name="Default Changelist" comment="add hometask 4&#10;add fibonachi_generator&#10;add answers to control questions&#10;add iterator to stack">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hometask_2/Complex numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hometask_2/Complex numbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,26 +94,34 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="ToolWindowPython Console.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Hometask 3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Биоинформатика ФИВТ" />
     <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Hometask_5" />
+      <recent name="$PROJECT_DIR$/Hometask_4" />
       <recent name="$PROJECT_DIR$/Hometask 3" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Hometask_3" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.Linked_list">
-    <configuration name="Calculator (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lesson_9">
+    <configuration name="Class_serialisation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hometask_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hometask_5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hometask_3/Calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hometask_5/Class_serialisation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,17 +130,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Calculator_stupid_version" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Fibonachi_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hometask_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hometask_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hometask_3/Calculator_stupid_version.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hometask_4/Fibonachi_generator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,17 +152,64 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lesson_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hometask_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hometask_2/Linked_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_9/Lesson_9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Linked_list (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="git" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hometask_4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hometask_4/Linked_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Linked_list (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="git" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hometask_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hometask_5/Linked_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,57 +262,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="git" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hometask_3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hometask_3/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="git" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hometask 3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hometask 3/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Linked_list" />
-        <item itemvalue="Python.Calculator_stupid_version" />
-        <item itemvalue="Python.Calculator (1)" />
-        <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.Lesson_9" />
+        <item itemvalue="Python.Linked_list (2)" />
+        <item itemvalue="Python.Class_serialisation" />
+        <item itemvalue="Python.Fibonachi_generator" />
+        <item itemvalue="Python.Linked_list (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +298,10 @@
       <workItem from="1666958665913" duration="44000" />
       <workItem from="1667475339775" duration="19017000" />
       <workItem from="1667558658530" duration="140000" />
-      <workItem from="1667566159421" duration="3782000" />
+      <workItem from="1667566159421" duration="14710000" />
+      <workItem from="1667899231507" duration="2110000" />
+      <workItem from="1669039346855" duration="4441000" />
+      <workItem from="1669370047728" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="add self.storage">
       <created>1665223429318</created>
@@ -293,7 +310,28 @@
       <option name="project" value="LOCAL" />
       <updated>1665223429318</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add hometask 3">
+      <created>1667570177820</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667570177820</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add Complex_numbers with Exceptions">
+      <created>1667570224398</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667570224398</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add hometask 4&#10;add fibonachi_generator&#10;add answers to control questions&#10;add iterator to stack">
+      <created>1667577485678</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667577485678</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,7 +354,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add self.storage" />
-    <option name="LAST_COMMIT_MESSAGE" value="add self.storage" />
+    <MESSAGE value="add hometask 3" />
+    <MESSAGE value="add Complex_numbers with Exceptions" />
+    <MESSAGE value="add hometask 4&#10;add fibonachi_generator&#10;add answers to control questions&#10;add iterator to stack" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hometask 4&#10;add fibonachi_generator&#10;add answers to control questions&#10;add iterator to stack" />
   </component>
   <component name="WindowStateProjectService">
     <state x="375" y="86" width="1400" height="1246" key="#Plugins" timestamp="1666124794068">
@@ -331,50 +372,54 @@
       <screen x="0" y="0" width="2160" height="1396" />
     </state>
     <state x="339" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2160.1396@0.0.2160.1396" timestamp="1667482864816" />
-    <state x="709" y="274" width="742" height="847" key="FileChooserDialogImpl" timestamp="1666958708118">
+    <state x="709" y="274" width="742" height="847" key="FileChooserDialogImpl" timestamp="1667901888820">
       <screen x="0" y="0" width="2160" height="1396" />
     </state>
-    <state x="709" y="274" width="742" height="847" key="FileChooserDialogImpl/0.0.2160.1396@0.0.2160.1396" timestamp="1666958708118" />
-    <state width="1273" height="324" key="GridCell.Tab.0.bottom" timestamp="1666101144158">
+    <state x="709" y="274" width="742" height="847" key="FileChooserDialogImpl/0.0.2160.1396@0.0.2160.1396" timestamp="1667901888820" />
+    <state width="1508" height="403" key="GridCell.Tab.0.bottom" timestamp="1667901890076">
       <screen x="0" y="0" width="2160" height="1396" />
     </state>
-    <state width="1273" height="324" key="GridCell.Tab.0.bottom/0.0.2160.1396@0.0.2160.1396" timestamp="1666101144158" />
-    <state width="1273" height="324" key="GridCell.Tab.0.center" timestamp="1666101144158">
+    <state width="1508" height="403" key="GridCell.Tab.0.bottom/0.0.2160.1396@0.0.2160.1396" timestamp="1667901890076" />
+    <state width="1508" height="403" key="GridCell.Tab.0.center" timestamp="1667901890076">
       <screen x="0" y="0" width="2160" height="1396" />
     </state>
-    <state width="1273" height="324" key="GridCell.Tab.0.center/0.0.2160.1396@0.0.2160.1396" timestamp="1666101144158" />
-    <state width="1273" height="324" key="GridCell.Tab.0.left" timestamp="1666101144158">
+    <state width="1508" height="403" key="GridCell.Tab.0.center/0.0.2160.1396@0.0.2160.1396" timestamp="1667901890076" />
+    <state width="1508" height="403" key="GridCell.Tab.0.left" timestamp="1667901890075">
       <screen x="0" y="0" width="2160" height="1396" />
     </state>
-    <state width="1273" height="324" key="GridCell.Tab.0.left/0.0.2160.1396@0.0.2160.1396" timestamp="1666101144158" />
-    <state width="1273" height="324" key="GridCell.Tab.0.right" timestamp="1666101144158">
+    <state width="1508" height="403" key="GridCell.Tab.0.left/0.0.2160.1396@0.0.2160.1396" timestamp="1667901890075" />
+    <state width="1508" height="403" key="GridCell.Tab.0.right" timestamp="1667901890076">
       <screen x="0" y="0" width="2160" height="1396" />
     </state>
-    <state width="1273" height="324" key="GridCell.Tab.0.right/0.0.2160.1396@0.0.2160.1396" timestamp="1666101144158" />
-    <state width="2080" height="403" key="GridCell.Tab.1.bottom" timestamp="1665310335835">
+    <state width="1508" height="403" key="GridCell.Tab.0.right/0.0.2160.1396@0.0.2160.1396" timestamp="1667901890076" />
+    <state width="1508" height="403" key="GridCell.Tab.1.bottom" timestamp="1667901890078">
       <screen x="0" y="0" width="2160" height="1396" />
     </state>
-    <state width="2080" height="403" key="GridCell.Tab.1.bottom/0.0.2160.1396@0.0.2160.1396" timestamp="1665310335835" />
-    <state width="2080" height="403" key="GridCell.Tab.1.center" timestamp="1665310335835">
+    <state width="1508" height="403" key="GridCell.Tab.1.bottom/0.0.2160.1396@0.0.2160.1396" timestamp="1667901890078" />
+    <state width="1508" height="403" key="GridCell.Tab.1.center" timestamp="1667901890077">
       <screen x="0" y="0" width="2160" height="1396" />
     </state>
-    <state width="2080" height="403" key="GridCell.Tab.1.center/0.0.2160.1396@0.0.2160.1396" timestamp="1665310335835" />
-    <state width="2080" height="403" key="GridCell.Tab.1.left" timestamp="1665310335834">
+    <state width="1508" height="403" key="GridCell.Tab.1.center/0.0.2160.1396@0.0.2160.1396" timestamp="1667901890077" />
+    <state width="1508" height="403" key="GridCell.Tab.1.left" timestamp="1667901890077">
       <screen x="0" y="0" width="2160" height="1396" />
     </state>
-    <state width="2080" height="403" key="GridCell.Tab.1.left/0.0.2160.1396@0.0.2160.1396" timestamp="1665310335834" />
-    <state width="2080" height="403" key="GridCell.Tab.1.right" timestamp="1665310335835">
+    <state width="1508" height="403" key="GridCell.Tab.1.left/0.0.2160.1396@0.0.2160.1396" timestamp="1667901890077" />
+    <state width="1508" height="403" key="GridCell.Tab.1.right" timestamp="1667901890077">
       <screen x="0" y="0" width="2160" height="1396" />
     </state>
-    <state width="2080" height="403" key="GridCell.Tab.1.right/0.0.2160.1396@0.0.2160.1396" timestamp="1665310335835" />
-    <state x="195" y="70" width="1769" height="1278" key="SettingsEditor" timestamp="1666610616114">
+    <state width="1508" height="403" key="GridCell.Tab.1.right/0.0.2160.1396@0.0.2160.1396" timestamp="1667901890077" />
+    <state x="195" y="70" width="1769" height="1278" key="SettingsEditor" timestamp="1667835007273">
       <screen x="0" y="0" width="2160" height="1396" />
     </state>
-    <state x="195" y="70" width="1769" height="1278" key="SettingsEditor/0.0.2160.1396@0.0.2160.1396" timestamp="1666610616114" />
-    <state x="489" y="0" width="1177" height="1392" key="search.everywhere.popup" timestamp="1667508703799">
+    <state x="195" y="70" width="1769" height="1278" key="SettingsEditor/0.0.2160.1396@0.0.2160.1396" timestamp="1667835007273" />
+    <state x="380" y="235" key="Vcs.Push.Dialog.v2" timestamp="1667577505435">
       <screen x="0" y="0" width="2160" height="1396" />
     </state>
-    <state x="489" y="0" width="1177" height="1392" key="search.everywhere.popup/0.0.2160.1396@0.0.2160.1396" timestamp="1667508703799" />
+    <state x="380" y="235" key="Vcs.Push.Dialog.v2/0.0.2160.1396@0.0.2160.1396" timestamp="1667577505435" />
+    <state x="489" y="0" width="1177" height="1392" key="search.everywhere.popup" timestamp="1669042013753">
+      <screen x="0" y="0" width="2160" height="1396" />
+    </state>
+    <state x="489" y="0" width="1177" height="1392" key="search.everywhere.popup/0.0.2160.1396@0.0.2160.1396" timestamp="1669042013753" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -389,6 +434,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/git$Complex_numbers.coverage" NAME="Complex numbers Coverage Results" MODIFIED="1666101040738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hometask_2" />
+    <SUITE FILE_PATH="coverage/git$Linked_list__2_.coverage" NAME="Linked_list (2) Coverage Results" MODIFIED="1667901791490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hometask_5" />
     <SUITE FILE_PATH="coverage/git$Linked_list.coverage" NAME="Linked_list Coverage Results" MODIFIED="1666100031523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hometask_2" />
   </component>
 </project>
